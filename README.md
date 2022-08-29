@@ -38,7 +38,7 @@ When we calculate sample size for daily active user, our sample becomes a number
 - Sufficient Reject H0 <br>
 Then we will decide that the average difference between daily active user new design and daily active user existing design is very significant. Which means that the average daily active user new design is higher than the existing design.
 
-## Experiment 1: Click Trough Rate
+## Experiment 2: Click Trough Rate
 
 ### Define Experiment
 1) What is the name of the experiment?
